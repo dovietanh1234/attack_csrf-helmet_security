@@ -1,0 +1,33 @@
+{
+  "name": "sql_node",
+  "version": "1.0.0",
+  "description": "This is demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dovietanh2k@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cache": "^3.0.0",
+    "cookie-parser": "^1.4.6",
+    "csurf": "^1.11.0",
+    "dompurify": "^3.0.4",
+    "dotenv": "^16.1.3",
+    "express": "^4.18.2",
+    "googleapis": "^118.0.0",
+    "helmet": "^7.0.0",
+    "jsdom": "^22.1.0",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "node-cache": "^5.1.2",
+    "nodemailer": "^6.9.3",
+    "paypal-rest-sdk": "^1.8.1",
+    "redis": "^4.6.7"
+  }
+}
